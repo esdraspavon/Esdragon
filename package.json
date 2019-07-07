@@ -1,0 +1,29 @@
+{
+  "name": "esdragon",
+  "version": "0.1.0",
+  "description": "Traductor de idioma Esdragon",
+  "main": "dist/esdragon.js",
+  "scripts": {
+    "build": "babel src/esdragon.js -d dist",
+    "test" : "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esdraspavon/esdragon.git"
+  },
+  "keywords": [
+    "esdragon",
+    "esdras",
+    "pavon",
+    "traductor"
+  ],
+  "author": "Esdras Pavon <pavonesdras@gmail.com> (esdraspavon.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
