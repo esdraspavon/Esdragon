@@ -1,6 +1,6 @@
 {
   "name": "esdragon-tanslator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Traductor de idioma Esdragon",
   "main": "dist/esdragon.js",
   "scripts": {
