@@ -12,7 +12,7 @@ Esdragon es un idioma inventado para aprender como manejar módulos de npm
 ## Instalación
 
 ```
-npm install esdragon
+npm install esdragon-translator
 ```
 
 ## Uso 
